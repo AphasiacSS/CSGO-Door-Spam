@@ -1,5 +1,5 @@
 ﻿#MaxThreadsPerHotkey 3
-q::
+q:: ; change "q" to be what ever you want
 #MaxThreadsPerHotkey 1
 if keepWinZRunning
 {
