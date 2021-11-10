@@ -1,2 +1,3 @@
 # CSGO-Door-Spam
-Just as it says in the title T-T
+Q to start and stop the command
+just spams E key
