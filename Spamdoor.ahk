@@ -9,6 +9,6 @@ send, e
 }
 return
 
-F11::
+LCtrl & e::
 suspend, toggle
 return
