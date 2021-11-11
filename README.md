@@ -1,5 +1,6 @@
 # CSGO-Door-Spam
 **Need AutoHotKey to Run**
+
 Hold down E
 
 F11 to pause the macro
