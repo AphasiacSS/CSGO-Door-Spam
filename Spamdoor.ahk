@@ -10,5 +10,5 @@ send, e
 return
 
 F11::
-suspend, on
+suspend, toggle
 return
