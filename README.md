@@ -2,4 +2,6 @@
 **Need AutoHotKey to Run**
 Hold down E
 
+F11 to pause the macro
+
 you can change what key to use at the start of the macro
