@@ -1,21 +1,10 @@
-﻿#MaxThreadsPerHotkey 3
-q:: ; change "q" to be what ever you want
-#MaxThreadsPerHotkey 1
-if keepWinZRunning
+$e:: ; change "e" to what ever u want
+loop
 {
-if keepWinZRunning
-	keepWinZRunning := false
-	Return
-}
-
-keepWinZRunning := true
-loop 
-{
+	GetKeyState, var, e, p
+	if var = U
+		break
 
 send, e
-sleep, 10
-if not keepWinZRunning
-	break
 }
-keepWinZRunning := false
 return
