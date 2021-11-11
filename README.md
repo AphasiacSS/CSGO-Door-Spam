@@ -3,6 +3,6 @@
 
 Hold down E
 
-F11 to pause the macro
+F11 to pause & play the macro
 
 you can change what key to use at the start of the macro
